@@ -1,1 +1,1 @@
-http://127.0.0.1:5000/inputGraphs/age,rooms,lotSize,bedrooms
+[{"numFeat":4,"mse":7109566239.0479917526,"selectedFeats":["age","bedrooms","lotSize","rooms"]}]
