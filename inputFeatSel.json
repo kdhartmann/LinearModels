@@ -1,0 +1,1 @@
+[{"model":1,"mse":7151336258.0104017258,"numFeat":2,"selectedFeat":["age","rooms"]},{"model":2,"mse":5074119662.5543384552,"numFeat":3,"selectedFeat":["age","rooms","livingArea"]},{"model":3,"mse":9831555762.0086631775,"numFeat":1,"selectedFeat":["age"]},{"model":4,"mse":9831555762.0086631775,"numFeat":1,"selectedFeat":["age"]}]
